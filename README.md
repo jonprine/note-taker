@@ -12,6 +12,6 @@ An application that can be used to create and save notes using express.
 Made By Jon Prine
 
 ## Screeenshots of Finished Page
-![Team](src/images/screenshot1.png)
-![Team](src/images/screenshot2.png)
-![Team](src/images/screenshot3.png)
+![Note](images/screenshot1.png)
+![Note](images/screenshot2.png)
+![Note](images/screenshot3.png)
